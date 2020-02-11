@@ -1,0 +1,3 @@
+functions-framework
+sendgrid
+firebase-admin
